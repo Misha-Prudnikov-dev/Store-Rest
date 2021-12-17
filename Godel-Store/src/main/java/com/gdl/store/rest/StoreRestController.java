@@ -71,7 +71,7 @@ public class StoreRestController {
 		return subcategories;
 	}
 
-	@GetMapping("subcategories/{subcategoryId}")
+	@GetMapping("/subcategories/{subcategoryId}")
 	public List<Product> getAllProductByIdSubcategory(@PathVariable int subcategoryId) {
 
 		List<Product> products = null;
