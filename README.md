@@ -6,6 +6,7 @@
 * Application endpoints
 ## Project Description
 * Online Clothing Store 
+* Rest api 
 ## Project Functions
 * View catalog
 * View product list
